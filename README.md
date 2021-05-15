@@ -4,9 +4,11 @@
 
 # 구상 방법론
 
+* SL(supervised learning)
+    * RNN
+    * multi label classification 
 * GAN?
 * RL?
-* RNN?
 
 # 가정
 
